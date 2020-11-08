@@ -16,7 +16,9 @@ Sample Data that is fetched from 314e.com
 /[[WordCount [word=the, count=948], WordCount [word=to, count=840], WordCount [word=and, count=730], WordCount [word=of, count=609], WordCount [word=ehr, count=607], WordCount [word=data, count=533], WordCount [word=services, count=517], WordCount [word=it, count=517], WordCount [word=a, count=484], WordCount [word=for, count=456]], [WordCount [word=healthcare-it, count=189], WordCount [word=cures-act, count=143], WordCount [word=ehr-services, count=116], WordCount [word=staff-augmentation, count=109], WordCount [word=go-live, count=103], WordCount [word=ehr-interfaces, count=102], WordCount [word=data-conversion, count=100], WordCount [word=services-ehr, count=99], WordCount [word=cloud-adoption, count=99], WordCount [word=digital-learning, count=98]]]
 
 #How to build the code 
+
   mvn clean install
+  
 #How to Run the code 
 
   app.webScanner.webScanner is the entry point for the APP.
