@@ -16,5 +16,6 @@ Sample Data that is fetched from 314e.com
 [[WordCount [word=the, count=774], WordCount [word=to, count=672], WordCount [word=and, count=636], WordCount [word=ehr, count=528], WordCount [word=of, count=527], WordCount [word=data, count=489], WordCount [word=services, count=476], WordCount [word=it, count=455], WordCount [word=a, count=379], WordCount [word=for, count=378]], [WordCount [word=healthcare-it, count=175], WordCount [word=cures-act, count=124], WordCount [word=ehr-services, count=105], WordCount [word=staff-augmentation, count=98], WordCount [word=ehr-interfaces, count=93], WordCount [word=2020-314e, count=93], WordCount [word=data-conversion, count=91], WordCount [word=cloud-adoption, count=90], WordCount [word=services-ehr, count=90], WordCount [word=data-analytics, count=82]]]
 
 #How to Run the code 
+
   app.webScanner.webScanner is the entry point for the APP.
 
