@@ -1,7 +1,7 @@
 # WebsiteScanner
 This app scans through a webpage and displays the top 10 frequent words and the top 10 frequent word pairs. When it encounters a hyperlink, it recursively scans the webpage and for frequent word and word pairs. The Maximum depth of recursion can be changed, currently its 4.
 
-This App uses joup as third party libarary to parse html objects and read through the webpage. The app also utilizes jsoup utility to fetch all the hyperlinks in the webpage.
+This App uses jsoup as third party libarary to parse html objects and read through the webpage. The app also utilizes jsoup utility to fetch all the hyperlinks in the webpage.
 
 The App first fetches all the words from the URL provided as input. Then the App fetches all hyper links in the webpage. It then recursively reads words from webpages scanning the hypperling. This goes uptil fourth Level.
 
